@@ -1,5 +1,8 @@
 ### Hi, I'm Marcos Valdez. Welcome to Student Portfolio.
 
+🚧 UNDER CONSTRUCTION 🚧
+(I miss web 1.0)
+
 ## About Me
 
 - 🔭 I’m finishing up my last term as a CS Postbacc at Oregon State University
