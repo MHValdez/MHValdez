@@ -6,7 +6,7 @@
 ## About Me
 
 - 🔭 I’m finishing up my last term as a CS Postbacc at Oregon State University
-- 🌱 I’m currently working on my capstone project: [*Project Assignment Pending*]
+- 🌱 I’m currently working on my degree capstone project for [Levrum Data Technologies]https://www.levrum.com/: SaaS Application for Fire Department 911 Risk Analysis
 - 👯 I’m looking to collaborate on open projects in machine learning, especially in pursuit of research related to sustainability
 - 🤔 I’m looking for help with getting involved in sustainability research, especially renewable power generation and storage technology
 - 💬 Ask me about my experience in manned spaceflight at Johson Space Center
@@ -14,6 +14,6 @@
 
 ## Check Out These Undergraduate Projects
 
-- *Capstone Placeholder*
--
--
+- SaaS Application for Fire Department 911 Risk Analysis (in progress, code under NDA)
+- Continuous Integration Demo (private repo, collaborator invite available on request)
+- 
