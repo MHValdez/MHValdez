@@ -29,6 +29,6 @@
 - [Simplified Monopoly game implemented with Python classes](https://github.com/MHValdez/Monopoly/)
 
 ### Projects Set to Private per Instructor (Collaborator invite available on Request)
-- [Minature Bash-style Shell](https://github.com/MHValdez/CS344_smallsh)
+- [Miniature Bash-style Shell](https://github.com/MHValdez/CS344_smallsh)
 - [CUDA Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CS475-Proj5-ubuntu2204)
 - [Continuous Integration Workflow Demonstration](https://github.com/MHValdez/Continuous_Integration_Workflow/)
