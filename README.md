@@ -15,7 +15,7 @@
 - [SaaS Application for Fire Department 911 Risk Analysis](https://github.com/MHValdez/911_Risk_Analysis/)
 
 ### Projects Using Popular Development Frameworks
-- [RESTful NoSQL database with Auth0 user authorization on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project/)
+- [RESTful NoSQL database in Flask with Auth0 user authorization on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project/)
 - [React Unit Converter UI that interfaces with ASP.NET conversion tool via REST API](https://github.com/MHValdez/CS_361_Converter)
 - [Express server microservice that interfaces with blackjack game](https://github.com/MHValdez/CS_361_Recommender/)
 - [Relational Database: React Frontend and SQL Constructor Files](https://github.com/MHValdez/CS340_Project_FrontEnd)
