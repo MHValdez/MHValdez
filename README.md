@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’ve recently graduated with a 4.0 in Computer Science at Oregon State University
-- 🌱 I’ve got industry experience with a large codebase from my degree capstone project for [Levrum Data Technologies](https://www.levrum.com/): SaaS Application for Fire Department 911 Risk Analysis
+- 🌱 I’ve got industry experience with a large codebase from my degree capstone project for [Levrum Data Technologies](https://www.levrum.com/)
 - 👯 I’m looking to collaborate on projects that make a positive impact
 - 💬 Ask me about my experience in Mission Control at Johson Space Center
 - 📫 How to reach me: [MHValdez@proton.me](MHValdez@proton.me)
