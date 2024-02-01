@@ -2,16 +2,15 @@
 
 ## About Me
 
-- 🔭 I’m finishing up my last term as a CS Postbacc at Oregon State University
-- 🌱 I’m currently working on my degree capstone project for [Levrum Data Technologies](https://www.levrum.com/): SaaS Application for Fire Department 911 Risk Analysis
-- 👯 I’m looking to collaborate on projects in machine learning, especially in pursuit of research related to sustainability or cognition
-- 🤔 I’m looking for help with getting involved in sustainability research, especially renewable power generation and storage technology
+- 🔭 I’ve recently graduated with a 4.0 in Computer Science at Oregon State University
+- 🌱 I’ve got industry experience with a large codebase from my degree capstone project for [Levrum Data Technologies](https://www.levrum.com/): SaaS Application for Fire Department 911 Risk Analysis
+- 👯 I’m looking to collaborate on projects that make a positive impact
 - 💬 Ask me about my experience in Mission Control at Johson Space Center
 - 📫 How to reach me: [MHValdez@proton.me](MHValdez@proton.me)
 
 ## Check Out These Undergraduate Projects
 
-### For Industry Client (In Progress, Under NDA)
+### For Industry Client
 - [SaaS Application for Fire Department 911 Risk Analysis](https://github.com/MHValdez/911_Risk_Analysis/)
 
 ### Projects Using Popular Development Frameworks
