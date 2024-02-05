@@ -1,4 +1,4 @@
-### Hi, I'm Marcos Valdez. Welcome to Recent Graduate Portfolio.
+### Hi, I'm Marcos Valdez. Welcome to my Recent Graduate Portfolio.
 
 ## About Me
 
