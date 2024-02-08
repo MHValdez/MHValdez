@@ -15,19 +15,19 @@
 
 ### Projects Using Popular Development Frameworks
 - [RESTful NoSQL database in Flask with Auth0 user authorization on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project/)
-- [React Unit Converter UI that interfaces with ASP.NET conversion tool via REST API](https://github.com/MHValdez/CS_361_Converter)
+- [React Unit Converter UI that interfaces with ASP.NET conversion tool via REST API](https://github.com/MHValdez/CS_361_Converter/)
 - [Express server microservice that interfaces with blackjack game](https://github.com/MHValdez/CS_361_Recommender/)
 - [Relational Database: React Frontend and SQL Constructor Files](https://github.com/MHValdez/CS340_Project_FrontEnd)
-- [MERN (MongoDB, Express, React, Node.js) Exercise App](https://github.com/MHValdez/MERN_Exercise_App/tree/main)
+- [MERN (MongoDB, Express, React, Node.js) Exercise App](https://github.com/MHValdez/MERN_Exercise_App/)
 
 ### Projects Focusing on CS Theory
 - [Socket Server and Client Chat](https://github.com/MHValdez/Socket_Server_and_Client_Chat/)
-- [Breadth First Search (BFS) Puzzle Solver](https://github.com/MHValdez/BFS_Puzzle)
+- [Breadth First Search (BFS) Puzzle Solver](https://github.com/MHValdez/BFS_Puzzle/)
 - [Hash Map with two methods of collision resolution](https://github.com/MHValdez/Hash_Map/)
-- [Low-Level IO in x86 Assembly](https://github.com/MHValdez/Low_Level_IO_in_Assembly/tree/main)
+- [Low-Level IO in x86 Assembly](https://github.com/MHValdez/Low_Level_IO_in_Assembly)
 - [Simplified Monopoly game implemented with Python classes](https://github.com/MHValdez/Monopoly/)
 
 ### Projects Set to Private per Instructor (Collaborator invite available on Request)
-- [Miniature Bash-style Shell](https://github.com/MHValdez/CS344_smallsh)
-- [CUDA Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CS475-Proj5-ubuntu2204)
+- [Miniature Bash-style Shell](https://github.com/MHValdez/smallsh-portfolio/)
+- [CUDA Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CUDA-portfolio/)
 - [Continuous Integration Workflow Demonstration](https://github.com/MHValdez/Continuous_Integration_Workflow/)
