@@ -1,14 +1,15 @@
-### Hi, I'm Marcos Valdez. Welcome to my Recent Graduate Portfolio.
+### Hi, I'm Marcos Valdez. Welcome to my University Graduate Portfolio.
 
 ## About Me
 
-- 🔭 I’ve recently graduated with a 4.0 in Computer Science at Oregon State University
-- 🌱 I’ve got industry experience with a large codebase from my degree capstone project for [Levrum Data Technologies](https://www.levrum.com)
-- 👯 I’m looking to collaborate on projects that make a positive impact
-- 💬 Ask me about my experience in Mission Control at Johson Space Center
-- 📫 How to reach me: [MHValdez@proton.me](MHValdez@proton.me)
+- I’ve recently graduated with a 4.0 in Computer Science at Oregon State University
+- I’ve got industry experience with a large codebase from my degree capstone project for [Levrum Data Technologies](https://www.levrum.com)
+- I’m looking to collaborate on projects that make a positive impact
+- I've got a strong interest in machine learning and I'm building my knowledge
+- Ask me about my experience in Mission Control at Johson Space Center
+- How to reach me: [MHValdez@proton.me](MHValdez@proton.me)
 
-## Check Out These Undergraduate Projects
+## Check Out These Projects
 
 ### For Texas Children's Hospital
 - [Informatica Demo](https://github.com/MHValdez/Informatica-Demo)
@@ -18,8 +19,8 @@
 
 ### Projects Using Popular Development Frameworks
 - [RESTful NoSQL database in Flask with Auth0 user authorization on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project)
-- [React Unit Converter UI that interfaces with ASP.NET conversion tool via REST API](https://github.com/MHValdez/CS_361_Converter)
-- [Express server microservice that interfaces with blackjack game](https://github.com/MHValdez/CS_361_Recommender)
+- [React Unit Converter UI that interfaces with conversion tool via REST API](https://github.com/MHValdez/CS_361_Converter)
+- [Express server microservice that interfaces with blackjack game via REST API](https://github.com/MHValdez/CS_361_Recommender)
 - [Relational Database: React Frontend and SQL Constructor Files](https://github.com/MHValdez/CS340_Project_FrontEnd)
 - [MERN (MongoDB, Express, React, Node.js) Exercise App](https://github.com/MHValdez/MERN_Exercise_App)
 
@@ -32,5 +33,5 @@
 
 ### Projects Set to Private per Instructor (Collaborator invite available on Request)
 - [Miniature Bash-style Shell](https://github.com/MHValdez/smallsh-portfolio)
-- [CUDA Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CUDA-portfolio)
+- [CUDA Hardware Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CUDA-portfolio)
 - [Continuous Integration Workflow Demonstration](https://github.com/MHValdez/Continuous_Integration_Workflow)
