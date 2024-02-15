@@ -11,9 +11,6 @@
 
 ## Check Out These Projects
 
-### For Texas Children's Hospital
-- [Informatica Demo](https://github.com/MHValdez/Informatica-Demo)
-
 ### For Industry Client
 - [SaaS Application for Fire Department 911 Risk Analysis](https://github.com/MHValdez/911_Risk_Analysis)
 
@@ -35,3 +32,6 @@
 - [Miniature Bash-style Shell](https://github.com/MHValdez/smallsh-portfolio)
 - [CUDA Hardware Performance Analysis using Monte Carlo Simulation](https://github.com/MHValdez/CUDA-portfolio)
 - [Continuous Integration Workflow Demonstration](https://github.com/MHValdez/Continuous_Integration_Workflow)
+
+### For Texas Children's Hospital
+- [Informatica Demo](https://github.com/MHValdez/Informatica-Demo)
