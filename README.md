@@ -10,7 +10,7 @@
 ## Check Out These Projects
 
 ### Projects Using Popular Development Frameworks
-- [RESTful MongoDB database in Flask with Auth0 user authorization on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project)
+- [MongoDB database with REST API in Flask and Auth0 on Google Cloud Platform](https://github.com/MHValdez/CS493-a9-final-project)
 - [React unit converter UI using partner’s ASP.NET microservice](https://github.com/MHValdez/CS_361_Converter)
 - [Express server microservice for partner's blackjack playing Discord bot](https://github.com/MHValdez/CS_361_Recommender)
 - [MySQL database: React frontend and SQL constructor files](https://github.com/MHValdez/CS340_Project_FrontEnd)
