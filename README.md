@@ -20,6 +20,7 @@
 - [MERN (MongoDB, Express, React, Node.js) exercise app](https://github.com/MHValdez/MERN_Exercise_App)
 
 ### Projects Focusing on CS Theory
+- [OpenMP Common Core exercises](https://github.com/MHValdez/OMP)
 - [Socket server and client chat](https://github.com/MHValdez/Socket_Server_and_Client_Chat)
 - [Breadth First Search (BFS) puzzle solver](https://github.com/MHValdez/BFS_Puzzle)
 - [Custom hash with two methods of collision resolution](https://github.com/MHValdez/Hash_Map)
